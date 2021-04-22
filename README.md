@@ -1,18 +1,22 @@
-# THIS BUILD
+## book app
 Back-end RESTful API, powered by Python and Flask 
  
-API following  RESTful design principles using the basic HTTP verbs: GET, POST, PUT, and DELETE
+RESTful_API = [GET, POST, PUT, DELETE]
 
-Front-end application with Vue that consumes the back-end API
+Front-end - Vue app that consumes the back-end API
 
 ## Getting Started
 
 
-### Server(pyton)
+## Server(python)
 
 
-### Client(vue)
+## Client(vue)
 
 
 
-#### still to do 
+### still to do 
+db intergrations
+auth
+CMS
+ORM
